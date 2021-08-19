@@ -14,6 +14,6 @@ Abrir o 'index.html' no seu navegador.
 2) Depois:
 
 ```
-Digitar um numero inteiro positivo, no campo 'numero' e clique em 'calcular'.
+Digitar um numero inteiro positivo no campo 'numero', e clique em 'calcular'.
 ```
 3) e pronto!
