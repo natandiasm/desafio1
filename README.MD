@@ -2,6 +2,9 @@
 
 > O desafio consistem em, a partir da entrada de um número inteiro positivo pelo usuário, será retornado a somatória de todos os valores inteiro divisíveis por 3 ou 5, inferior ao numero passado.
 
+## Pré-requisito
+
+Clonar esse repositorio e manter o index.html e o script.js na mesma pasta.
 
 ## ☕ Usando
 
