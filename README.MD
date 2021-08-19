@@ -1,6 +1,6 @@
 # Desafio 1
 
-> O desafio consistem em, a partir da entrada de um número inteiro positivo pelo usuário, será retornado a somatória de todos os valores inteiro divisíveis por 3 ou 5 menor inferior ao numero passado.
+> O desafio consistem em, a partir da entrada de um número inteiro positivo pelo usuário, será retornado a somatória de todos os valores inteiro divisíveis por 3 ou 5, inferior ao numero passado.
 
 
 ## ☕ Usando
@@ -14,6 +14,6 @@ Abrir o 'index.html' no seu navegador.
 2) Depois:
 
 ```
-Digitar um numero inteiro positivo, no campo 'numero' e clicar em 'calcular'.
+Digitar um numero inteiro positivo, no campo 'numero' e clique em 'calcular'.
 ```
 3) e pronto!
